@@ -25,3 +25,7 @@ pip install -r requirements.txt
 ```python
 streamlit run app.py
 ```
+
+**OR** 
+
+Go to the URL: https://signal-convolutor.streamlit.app/
